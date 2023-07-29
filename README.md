@@ -10,6 +10,8 @@ Happy coding! 😊
 
 Skills: HTML / CSS / JS / BOOTSTRAP / PHP / MySQL / C++ 
 
+- 🔭 I’m currently working on a web application for used cars showroom 
+- 🌱 I’m currently learning React JS 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asanes19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abdelrahmansherif1930/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/ASANES19)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://animated-dodol-f567aa.netlify.app/)  
