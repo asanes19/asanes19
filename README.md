@@ -1,5 +1,4 @@
-### Hi there 👋, my name is Abdelrahman
-#### I'm Web Developer
+### Hi there 👋, I'm Abdelrahman
 ![I'm Web Developer](https://thumbs.gfycat.com/AstonishingDentalGermanspitz-size_restricted.gif)
 
 Hi there, I'm Abdelrahman Sherif, a passionate Full Stack Web Developer with a flair for creating visually captivating and modern websites. My journey in web development began with a primary focus on front-end technologies, and over time, I've amassed considerable experience in the back-end realm as well.
