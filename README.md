@@ -5,12 +5,13 @@
   <br><span style="font-style: italic;">I'm</span> <span style="color:#9461FF">Abdelrahman Sherif</span>
 </h1>
 <h3 align="center" style="margin-bottom:7px;" > Full Stack Developer </h3>
-<p align="center"> <code>Passionate Full Stack Web Developer with expertise in front-end and back-end technologies. Committed to continuous learning and staying updated with the latest trends. Enjoys collaborating on impactful projects. Excited to grow as a developer and deliver exceptional solutions. Let's connect and build something remarkable together!.</code></p>
+<p align="center"> <code>A software engineer, passionate about building practical, user-friendly solutions. My work focuses on the developing websites, tools, and applications that are both intuitive and visually engaging. I enjoy working with APIs, streamlining processes through automation, and transforming ideas into functional, impactful products.
+</code></p>
 <br>
 <p align="center">🎉<b>Special Feature:</b> 
 <br>
 <br>
-       <span style="color:#7DCFB6;"> 💡 Full Stack Development 💡 Agile Methodology 💡 Database Management 💡 User-Centric Design </span>
+       <span style="color:#7DCFB6;"> 💡 Front-End Development 💡 React & Next.js 💡 API Integrations 💡 Dashboards & Data Visualization </span>
 </p>
 <br>
 <p align="center">
@@ -19,13 +20,6 @@
 </a>
   
 </p>
-<br>
-<span style="line-height: 2.1em;">
-- 🔥 I'm currently working on web application for used cars showroom. <br>
-- 📚 I’m currently learning React JS.<br>
-- 💻 Web development enthusiast with a passion for elegant solutions. Let's create wonders together! 🚀🌐.<br>
-- ⚡ Fun fact: I turn lines of code into works of art, where passion and creativity intertwine to bring digital wonders to life! 🎨💻✨<br>
-</span>
 <br>
 <br>
 <h3> 🙋‍♀️ Let's Connect </h3>
